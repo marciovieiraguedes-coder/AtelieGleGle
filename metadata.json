@@ -1,0 +1,8 @@
+{
+  "name": "Ateliê Gleglê",
+  "description": "Decoração de festas de luxo e arte com balões em Manaus. Transformamos sonhos em cenários extraordinários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
